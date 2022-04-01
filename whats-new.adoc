@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
+summary: 了解计算服务的新增功能。 
+---
+= 新增功能
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+了解计算服务的新增功能。
+
+
+
+== 2020 年 12 月 7 日
+
+
+
+=== 在 Cloud Manager 和 Spot 之间导航
+
+现在，您可以更轻松地在 Cloud Manager 和 Spot 之间导航。
+
+通过 Spot 中的一个新的 * 存储操作 * 部分，您可以直接导航到 Cloud Manager 。完成后，您可以从 Cloud Manager 中的 * 计算 * 选项卡返回到 Spot 。
+
+
+
+== 2020 年 10 月 18 日
+
+
+
+=== 计算服务简介
+
+利用 https://spot.io/products/cloud-analyzer/["Spot 的 Cloud Analyzer"^]， Cloud Manager 现在可以对您的云计算支出进行高级别的成本分析，并确定潜在的节省量。此信息可从 Cloud Manager 中的 * 计算 * 服务获得。
+
+link:concept-compute.html["了解有关计算服务的更多信息"]。
+
+image:screenshot_compute_dashboard.gif["显示 Cloud Manager 中 \" 成本分析 \" 页面的屏幕截图。"]

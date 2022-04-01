@@ -1,0 +1,15 @@
+---
+layout: astra 
+sidebar: sidebar 
+permalink: index.html 
+lead: View a cost analysis of your cloud compute spending and identify potential savings right from Cloud Manager. 
+summary: 查看云计算支出的成本分析，并直接从 Cloud Manager 中确定潜在的节省量。 
+---
+= 计算文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="eece53abc6d84973fe78f6fa978750a8" category="summary">了解计算服务的新增功能。</block>
+  <block id="490414e0366b091220802d406e52c076" category="doc">新增功能</block>
+  <block id="5dbeb3fac0061c5a7312b60d8b30a979" category="section-title">2020 年 12 月 7 日</block>
+  <block id="9dc245f64def9d62941e9ee3f4af4adb" category="section-title">在 Cloud Manager 和 Spot 之间导航</block>
+  <block id="429b7972d23af5e411304108791f1c6c" category="paragraph">现在，您可以更轻松地在 Cloud Manager 和 Spot 之间导航。</block>
+  <block id="6673d1ba63d3b88416bb57a52f24edaf" category="paragraph">通过 Spot 中的一个新的 * 存储操作 * 部分，您可以直接导航到 Cloud Manager 。完成后，您可以从 Cloud Manager 中的 * 计算 * 选项卡返回到 Spot 。</block>
+  <block id="8c5333ffafbd680d89f2b3b6020d1848" category="section-title">2020 年 10 月 18 日</block>
+  <block id="776903deac41433ca593263c8812b21c" category="section-title">计算服务简介</block>
+  <block id="8ecc68a9339de03fc0f6e65490a53645" category="inline-link">Spot 的 Cloud Analyzer</block>
+  <block id="94bdad82453d71da22fcd69f47559c1c" category="paragraph">利用<block ref="f6403c1f0596662bb11f11c4ddde243f" category="inline-link-rx"></block>， Cloud Manager 现在可以对您的云计算支出进行高级别的成本分析，并确定潜在的节省量。此信息可从 Cloud Manager 中的 * 计算 * 服务获得。</block>
+  <block id="0947726e3c301f45f25d6d4b3295fcec" category="inline-link-macro">了解有关计算服务的更多信息</block>
+  <block id="8cc0daa7105cfeb2e7d5f20b79723fcb" category="paragraph"><block ref="17a781588297286182195c4b48f62db3" category="inline-link-macro-rx"></block>。</block>
+  <block id="6ae18045fc1ab0bf7898b13f3ef31c9a" category="inline-image-macro">显示 Cloud Manager 中 " 成本分析 " 页面的屏幕截图。</block>
+  <block id="4d2269079ceadb46a414d16a2d033af9" category="paragraph"><block ref="4d2269079ceadb46a414d16a2d033af9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6d79ef20eb182089395ef09e4c198ccb" category="summary">通过利用 Spot 的 Cloud Analyzer 服务， Cloud Manager 可以对您的云计算支出进行高级别成本分析，并确定潜在的节省量。</block>
+  <block id="dc512bfecf857e8dee6ac30c7a237a2f" category="doc">了解计算服务</block>
+  <block id="ea197bae82effb87bc75fbe595602d2b" category="inline-link">Spot 的 Cloud Analyzer 服务</block>
+  <block id="87f25268f4538def4b3cbb0148369b1b" category="paragraph">利用<block ref="4b96c8339310a566633babc222b55825" category="inline-link-rx"></block>， Cloud Manager 可以对您的云计算支出进行高水平的成本分析，并确定潜在的节省量。</block>
+  <block id="3fb7a38542fc8dc9bd67775c1efa0754" category="paragraph">Cloud Analyzer 是一种云基础架构管理解决方案，它使用高级分析来提供对云成本的可见性和洞察力。它可以向您展示优化这些成本的位置，并允许您只需单击几下鼠标，即可使用 Spot 的持续优化产品组合来实施这种优化。</block>
+  <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">功能</block>
+  <block id="b13786f788868ed1bede397373dc9471" category="list-text">一种成本分析，用于显示当月的当前成本，预计每月成本以及未实现的节省</block>
+  <block id="22940f2df588dbac7740199a7b1c8cc9" category="list-text">按帐户查看支出效率，包括预计的额外节省量</block>
+  <block id="721a2bc621b10ff4fc87abb9ef228a1c" category="list-text">指向 Spot Cloud Analyzer 的链接，可获取有关所有客户支出的更深入详细信息</block>
+  <block id="902e65d33784bd8924eb05e622aa2dda" category="section-title">支持的云提供商</block>
+  <block id="c2a13a8b969b516ac9af28a61843732c" category="paragraph">AWS 支持此服务。</block>
+  <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">成本</block>
+  <block id="f534e70d23b20b69790b5281217a7257" category="paragraph">通过 Cloud Manager 使用此服务无需任何成本。</block>
+  <block id="7c06c52c4e76bd8d67d4da904f426cb1" category="section-title">Cloud Analyzer 如何与 Cloud Manager 配合使用</block>
+  <block id="4d8eb0bc0298d7b1b0ea3f4f618ea0e1" category="paragraph">概括地说， Cloud Analyzer 与 Cloud Manager 的集成工作原理如下：</block>
+  <block id="1fdce7e9a0a4116c0c33b13e949d0e94" category="list-text">单击 * 计算 * 并连接 AWS 管理帐户。</block>
+  <block id="375b86c47403de1db7caffdd4c5ddfe6" category="list-text">NetApp 将按照以下方式配置您的环境：</block>
+  <block id="c3c918d3946255bf9b03b6e74b5b3f36" category="list-text">在现场平台中创建组织。</block>
+  <block id="160fee406155d1c4308599be28a10850" category="list-text">发送一封电子邮件，欢迎您发现。</block>
+  <block id="d22621cbc677aa8d88d1a0df694b9d60" category="paragraph">您可以使用与 Cloud Central 和 Cloud Manager 相同的单点登录凭据登录到 Spot 服务。</block>
+  <block id="d68a9d5829a20c130e867fef2a4695c6" category="list-text">Cloud Analyzer 开始处理您的 AWS 帐户数据。</block>
+  <block id="1caf35c7462aa72e36bfd6de6b5f6d8e" category="list-text">在 Cloud Manager 中，计算页面会进行更新，您可以使用这些信息深入了解过去，当前和未来的云成本。</block>
+  <block id="d324de754d17bd272e8971296440d6f6" category="list-text">您可以随时单击 * 获取完整分析 * 转到 Spot 的 Cloud Analyzer ，其中对您的云支出和节省机会进行了全面分析。</block>
+  <block id="4c5d94eb4dc4bff93f6a96a08ab7b244" category="section-title">数据安全性</block>
+  <block id="927d8afbddd6abdbda7791916303bd5e" category="paragraph">Cloud Analyzer 数据会进行空闲加密，不会存储任何帐户的凭据。</block>
+  <block id="ce21e7ae4271271294ccbf54c8fd6864" category="summary">NetApp 通过多种方式为 Cloud Manager 提供支持。全天候提供丰富的免费自助支持选项，例如知识库（ KB ）文章和社区论坛。您的支持注册包括通过 Web 服务单提供的远程技术支持。</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">获取帮助</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link-macro"></block>
+  <block id="7ccaf84febc0ed633fbdbadb8d488a7e" category="paragraph"><block ref="7ccaf84febc0ed633fbdbadb8d488a7e" category="inline-link-macro-rx"></block></block>
+  <block id="0110949a431061ee668054b5ab98627e" category="summary">连接客户后，查看云计算成本分析，深入了解过去，当前和未来的云成本。</block>
+  <block id="2a4220102e5972b56988182c09f604aa" category="doc">分析计算成本</block>
+  <block id="cbd3f934260df2829bad2ed4e0f06fd9" category="paragraph">连接帐户后，查看云计算成本分析，深入了解过去，当前和未来的云成本。</block>
+  <block id="135dc5daa0877864eea105ddf0b69fac" category="section-title">查看成本分析</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步骤</block>
+  <block id="83457133a0ef330b6cf07b6b359318bf" category="list-text">单击 * 计算 * 。</block>
+  <block id="75f0eecd0fdb097a7d4b1e2f8e514d51" category="list-text">查看成本分析，深入了解您的计算成本。</block>
+  <block id="08c7073117589917ae653b4ee85aa678" category="inline-image-macro">显示 Cloud Manager 中 " 成本分析 " 页面的屏幕截图。此页面包含以下文本中所述的信息。</block>
+  <block id="40c72762e79ce7a14f7f5fa9134f5541" category="paragraph"><block ref="40c72762e79ce7a14f7f5fa9134f5541" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3f994038d6dd09b875518b9b5d38a005" category="list-text">月至今成本</block>
+  <block id="95a217721be0bcb767d045a065ccf8aa" category="list-text">从当月月初到目前的工作负载总成本。</block>
+  <block id="1cc2cf546407159fc46856165777a76d" category="list-text">预计成本</block>
+  <block id="a710a8ef9275bd55e0bc8125f0217049" category="list-text">根据对使用模式的分析得出的月底预测成本。</block>
+  <block id="faeccef940f463467d447e92cc1dfd2e" category="list-text">上周未实现节省</block>
+  <block id="c8d9648f3c9f70333dd7f7c046f73114" category="list-text">通过优化 Spot 实例和预留，可在过去七天内实现的节省量。</block>
+  <block id="f7c5dd70e9abbb23cdb81ee75dc3127d" category="list-text">排名前几位的 AWS 客户的效率支出</block>
+  <block id="b25c45f4ba2e6148a5a227e7c66eaf84" category="list-text">排名前 10 位的客户是估计额外节省量最大的客户。</block>
+  <block id="bc10c46f791a5ed5a97c400fda3a64d6" category="paragraph">系统会根据当前节省的空间以及可能节省的额外空间为每个帐户分配一个效率得分。预计额外节省量表示利用 Spot 和 Reserved 实例可以进一步节省多少空间。</block>
+  <block id="46153b60daff1c72219f289abfb3a3f7" category="paragraph">您可以执行以下操作来进一步优化您的帐户：</block>
+  <block id="c1d68901145b2010b1a8aeba75bc991c" category="list-text">* 查看详细信息 * ：转到 Spot 的 Cloud Analyzer ，查看您的成本优化机会。</block>
+  <block id="ddb875f7987b405235cbee12d6aae606" category="list-text">* 连接 * ：连接尚未管理的帐户。系统将引导您访问连接帐户的向导。</block>
+  <block id="6d3eb204453d122284ed4a432cfdd72a" category="list-text">排名靠前的 AWS 帐户</block>
+  <block id="7fb07d9d0284fd6863ef2a7db76e04cf" category="list-text">这是一个条形图，按成本显示您排名前十位的客户。此图基于过去 30 天的支出活动。</block>
+  <block id="3141db86bc2665181620f829e8eb01a8" category="inline-link">了解有关 Spot Cloud Analyzer 中的 " 成本分析 " 页面的更多信息</block>
+  <block id="f87962acab06efc931371dbba9b655f5" category="paragraph"><block ref="0b7683cbc9f0ee5f5a4a05bb1d598a4b" category="inline-link-rx"></block>。</block>
+  <block id="880161807749301ac59aa2e2e50748e8" category="section-title">获取完整分析</block>
+  <block id="a4fb91966a6fc1ddb81d36dbaad62eb6" category="paragraph">请访问 Cloud Analyzer 以获取更多分析和建议。</block>
+  <block id="cdb47ab3dcbc5b978ba715b20ca2474d" category="paragraph">随时单击 * 获取完整分析 * 可访问更多图表和分析，深入建议，用例优化细分（容器， ElasticApps 和预留）等。</block>
+  <block id="3f833690ee7503fbe541b6256b3d6807" category="paragraph">下面是您在 Cloud Analyzer 中看到的内容示例：</block>
+  <block id="0df007262bf194f46eb1953f4f3c7078" category="inline-image-macro">显示 Spot Cloud Analyzer 中的 " 成本分析 " 页面的屏幕截图。</block>
+  <block id="2acab5c4763d0543a1176c40374553cd" category="paragraph"><block ref="2acab5c4763d0543a1176c40374553cd" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="fbe408c237f5b1c0b80f1f32004958d8" category="inline-link">查看 Cloud Analyzer 的产品页面，了解有关其功能的更多信息</block>
+  <block id="be047dc506ce8de907952c21921ad701" category="list-text"><block ref="be047dc506ce8de907952c21921ad701" category="inline-link-rx"></block></block>
+  <block id="17dd96462b10711049d52dedde6ddc2b" category="inline-link">查看有关 Spot 的文档，以获取有关使用 Cloud Analyzer 的帮助</block>
+  <block id="745d17f34ad4743fc8506242741c7c95" category="list-text"><block ref="745d17f34ad4743fc8506242741c7c95" category="inline-link-rx"></block></block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律声明</block>
+  <block id="c59ae8d7beeb519a23478ab048af482c" category="paragraph"><block ref="c59ae8d7beeb519a23478ab048af482c" category="inline-link-macro-rx"></block></block>
+  <block id="6f2ac1cf1da8ec34232c651d4bba0149" category="paragraph"><block ref="6f2ac1cf1da8ec34232c651d4bba0149" category="inline-link-macro-rx"></block></block>
+  <block id="4940124e8487cb4ea36f1511a195cf66" category="inline-link-macro">有关 Cloud Manager 3.9 的注意事项</block>
+  <block id="c069fcc68c5dfa73ccc99924c836cae9" category="paragraph"><block ref="c069fcc68c5dfa73ccc99924c836cae9" category="inline-link-macro-rx"></block></block>
+  <block id="26e6e5fcbea5f9f1e96a87e1f4727945" category="summary">完成几个步骤，从 Spot 的 Cloud Analyzer 中深入分析您的云计算成本。</block>
+  <block id="0a17377f2d00cfdc489595aab3f4cb1a" category="doc">将 Cloud Analyzer 连接到您的 AWS 帐户</block>
+  <block id="9e117c9326e0082792fc9db4022de033" category="paragraph">将 Cloud Analyzer 连接到您的 AWS 付款人帐户，以便您可以开始优化云计算成本。</block>
+  <block id="82c17f884916312cf836be619c0f30b3" category="list-text">单击 * 将 AWS 凭据添加到启动 * 。</block>
+  <block id="d26bbc99ee4f03459f79c4515854e01c" category="list-text">按照页面上的步骤连接您的 AWS 帐户：</block>
+  <block id="967a3c762720190aa22ef075598669fd" category="list-text">登录到 AWS 管理帐户。</block>
+  <block id="99e81cf07180944f57414af8f3cbf726" category="list-text">在 AWS 帐户上设置成本和使用情况报告。</block>
+  <block id="539ab65affb84e62793065d7703303c5" category="list-text">运行 CloudFormation 模板。</block>
+  <block id="1d9c4b44100c952b0e042fa5de3ac24d" category="list-text">粘贴 Spot RoleARN 。</block>
+  <block id="59df016e94ef3d379d7e17a78c9353f4" category="inline-link">查看有关这些步骤的更多详细信息</block>
+  <block id="7d36f7ef084fb0934d1a1a86a6b22649" category="paragraph"><block ref="98a856f3a59c07c2e882d1b19866ae87" category="inline-link-rx"></block>。</block>
+  <block id="83473ceecf18da71bfa5696ac242d0bf" category="inline-image-macro">显示连接页面上每个可用字段的屏幕截图。</block>
+  <block id="fbe402e9579140daae0c0cddf837f4b4" category="paragraph"><block ref="fbe402e9579140daae0c0cddf837f4b4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c89159332a937ddbad2a51dd14e5c43d" category="inline-link-macro">分析计算成本</block>
+  <block id="d22c459c62854d20003f9895eea37a89" category="paragraph">Cloud Analyzer 开始处理您的 AWS 帐户数据。如果您有多个帐户， Cloud Analyzer 将从管理帐户下所有链接帐户的只读功能开始。如果您希望了解有关这些客户可能节省的空间的更多详细信息，则还需要将其连接起来。您可以找到有关在连接帐户时连接帐户的更多详细信息 <block ref="3073dfe60a6ccd32fe5c511a4c14196f" category="inline-link-macro-rx"></block>。</block>
+  <block id="07b933213828c1d942943f34617e62b0" category="summary">查看云计算支出的成本分析，并直接从 Cloud Manager 中确定潜在的节省量。</block>
+  <block id="1c87777fc8577c23e4c3acf6e05c6e76" category="doc">计算文档</block>
+  <block id="3c10116b37b407ac79092a38ffb292e4" category="summary">在向 NetApp 技术支持创建支持案例之前，您需要先将 NetApp 支持站点帐户添加到 Cloud Manager 中，然后注册获取支持。</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">注册以获得支持</block>
+  <block id="d53e2559d6ace0e907fc57192bf286b6" category="paragraph"><block ref="d53e2559d6ace0e907fc57192bf286b6" category="inline-link-macro-rx"></block></block>
+  <block id="7ff191df90fac0fa94ab5c2b5101a5e9" category="sidebar">所有 Cloud Manager 文档</block>
+  <block id="fc9195dd2727e87e1a0e146782847649" category="sidebar">计算文档</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">入门</block>
+  <block id="39b47babddc2784c0d74d47260b51730" category="sidebar">连接您的 AWS 帐户</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知识和支持</block>
+  <block id="3333dce1554e82e74322ec5666134c71" category="sidebar">使用计算服务</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">博客社区</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 社区</block>
+  <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Cloud Central 博客</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">云网络研讨会</block>
+</blocks>

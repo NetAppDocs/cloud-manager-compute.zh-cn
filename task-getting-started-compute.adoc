@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: task-getting-started-compute.html 
+keywords: compute, cloud insights, cloud analyzer, connect cloud analyzer, connect management account, connect payer account, aws payer account 
+summary: 完成几个步骤，从 Spot 的 Cloud Analyzer 中深入分析您的云计算成本。 
+---
+= 将 Cloud Analyzer 连接到您的 AWS 帐户
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+将 Cloud Analyzer 连接到您的 AWS 付款人帐户，以便您可以开始优化云计算成本。
+
+.步骤
+. 单击 * 计算 * 。
+. 单击 * 将 AWS 凭据添加到启动 * 。
+. 按照页面上的步骤连接您的 AWS 帐户：
++
+.. 登录到 AWS 管理帐户。
+.. 在 AWS 帐户上设置成本和使用情况报告。
+.. 运行 CloudFormation 模板。
+.. 粘贴 Spot RoleARN 。
++
+https://help.spot.io/cloud-analyzer/connect-your-aws-account-2/["查看有关这些步骤的更多详细信息"^]。
+
++
+image:screenshot_compute_add_account.gif["显示连接页面上每个可用字段的屏幕截图。"]
+
+
+
+
+
+Cloud Analyzer 开始处理您的 AWS 帐户数据。如果您有多个帐户， Cloud Analyzer 将从管理帐户下所有链接帐户的只读功能开始。如果您希望了解有关这些客户可能节省的空间的更多详细信息，则还需要将其连接起来。您可以找到有关在连接帐户时连接帐户的更多详细信息 link:task-analyze-costs.html["分析计算成本"]。
