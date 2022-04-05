@@ -2,18 +2,14 @@
 <blocks>
   <block id="eece53abc6d84973fe78f6fa978750a8" category="summary">了解计算服务的新增功能。</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新增功能</block>
-  <block id="5dbeb3fac0061c5a7312b60d8b30a979" category="section-title">2020 年 12 月 7 日</block>
   <block id="9dc245f64def9d62941e9ee3f4af4adb" category="section-title">在 Cloud Manager 和 Spot 之间导航</block>
   <block id="429b7972d23af5e411304108791f1c6c" category="paragraph">现在，您可以更轻松地在 Cloud Manager 和 Spot 之间导航。</block>
   <block id="6673d1ba63d3b88416bb57a52f24edaf" category="paragraph">通过 Spot 中的一个新的 * 存储操作 * 部分，您可以直接导航到 Cloud Manager 。完成后，您可以从 Cloud Manager 中的 * 计算 * 选项卡返回到 Spot 。</block>
-  <block id="8c5333ffafbd680d89f2b3b6020d1848" category="section-title">2020 年 10 月 18 日</block>
   <block id="776903deac41433ca593263c8812b21c" category="section-title">计算服务简介</block>
   <block id="8ecc68a9339de03fc0f6e65490a53645" category="inline-link">Spot 的 Cloud Analyzer</block>
   <block id="94bdad82453d71da22fcd69f47559c1c" category="paragraph">利用<block ref="f6403c1f0596662bb11f11c4ddde243f" category="inline-link-rx"></block>， Cloud Manager 现在可以对您的云计算支出进行高级别的成本分析，并确定潜在的节省量。此信息可从 Cloud Manager 中的 * 计算 * 服务获得。</block>
   <block id="0947726e3c301f45f25d6d4b3295fcec" category="inline-link-macro">了解有关计算服务的更多信息</block>
-  <block id="8cc0daa7105cfeb2e7d5f20b79723fcb" category="paragraph"><block ref="17a781588297286182195c4b48f62db3" category="inline-link-macro-rx"></block>。</block>
   <block id="6ae18045fc1ab0bf7898b13f3ef31c9a" category="inline-image-macro">显示 Cloud Manager 中 " 成本分析 " 页面的屏幕截图。</block>
-  <block id="4d2269079ceadb46a414d16a2d033af9" category="paragraph"><block ref="4d2269079ceadb46a414d16a2d033af9" category="inline-image-macro-rx" type="image"></block></block>
   <block id="6d79ef20eb182089395ef09e4c198ccb" category="summary">通过利用 Spot 的 Cloud Analyzer 服务， Cloud Manager 可以对您的云计算支出进行高级别成本分析，并确定潜在的节省量。</block>
   <block id="dc512bfecf857e8dee6ac30c7a237a2f" category="doc">了解计算服务</block>
   <block id="ea197bae82effb87bc75fbe595602d2b" category="inline-link">Spot 的 Cloud Analyzer 服务</block>
@@ -114,4 +110,8 @@
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 社区</block>
   <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Cloud Central 博客</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">云网络研讨会</block>
+  <block id="7ee45649520b61796809750e472a8000" category="section-title">2020 年 12 月 7 日</block>
+  <block id="3d54f0f13a2b982305cfb676b5efc25c" category="section-title">2020 年 10 月 18 日</block>
+  <block id="b70ff2217d4c493d72369bc7013d42a1" category="paragraph"><block ref="0d930208c139fddb05408afa8bb5cf71" category="inline-link-rx"></block>。</block>
+  <block id="dfe5d33062cb5ad4c4036bb7e93ff63e" category="paragraph"><block ref="dfe5d33062cb5ad4c4036bb7e93ff63e" category="inline-image-macro-rx" type="image"></block></block>
 </blocks>
