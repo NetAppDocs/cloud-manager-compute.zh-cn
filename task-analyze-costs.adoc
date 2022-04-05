@@ -6,6 +6,7 @@ summary: 连接客户后，查看云计算成本分析，深入了解过去，�
 ---
 = 分析计算成本
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

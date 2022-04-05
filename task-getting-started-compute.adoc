@@ -6,6 +6,7 @@ summary: 完成几个步骤，从 Spot 的 Cloud Analyzer 中深入分析您的�
 ---
 = 将 Cloud Analyzer 连接到您的 AWS 帐户
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
